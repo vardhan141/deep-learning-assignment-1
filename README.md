@@ -1,3 +1,4 @@
-# deep-learning-assignment-1
-# ICP 1 assignment where we train on glass dataset using naive bayes and svm model
-# implementing linear regression on salary data and plotting the train and test dataset
+student name:konyala sai vardhan reddy <br />
+student id:700745733 <br />
+ICP 1 assignment where we train on glass dataset using naive bayes and svm model<br />
+implementing linear regression on salary data and plotting the train and test dataset<br />
